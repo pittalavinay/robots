@@ -1,0 +1,26 @@
+.auto{
+  color: blue;
+  width: 300px;
+ background-color:beige;
+ margin-left: 1200px;
+}
+.card
+{
+  background-image: linear-gradient(yellow,red);
+  color: white;
+margin-top: 100px;
+}
+.card:hover
+{
+  transform: scale(1.1);
+}
+.slider
+{
+  background-image: linear-gradient(white,blue);
+  border-radius: 50px;
+  height: 400px;
+  margin-right: 20px;
+}
+body,html{
+  background-color:gray;
+}
